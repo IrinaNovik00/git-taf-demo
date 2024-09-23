@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>by.itacademy</groupId>
-    <artifactId>git-taf-demo</artifactId>
+    <artifactId>final-project-ficbook</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
